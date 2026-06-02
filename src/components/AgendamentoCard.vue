@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 mb-3 mb-sm-3 mt-3">
-        <div class="card" style="width: 18rem">
+      <div class="col mb-3 mb-sm-3 mt-3">
+        <div class="card" >
           <div class="card-body">
             <h5 class="card-title">{{ agendamento.clienteNome }}</h5>
             <h6 class="card-subtitle mb-2 text-muted">{{ agendamento.servico }}</h6>
