@@ -1,0 +1,156 @@
+{
+  "agendamentos": [
+    {
+      "id": "1",
+      "clienteNome": "Carlos Eduardo Souza",
+      "servico": "Corte + Barba",
+      "data": "2026-05-28",
+      "hora": "09:00",
+      "barbeiro": "João",
+      "status": "confirmado"
+    },
+    {
+      "id": "2",
+      "clienteNome": "Marcos Antônio Lima",
+      "servico": "Corte Degradê",
+      "data": "2026-05-28",
+      "hora": "10:00",
+      "barbeiro": "Rafael",
+      "status": "pendente"
+    },
+    {
+      "id": "3",
+      "clienteNome": "Felipe Rodrigues",
+      "servico": "Barba",
+      "data": "2026-05-28",
+      "hora": "11:00",
+      "barbeiro": "João",
+      "status": "confirmado"
+    },
+    {
+      "id": "4",
+      "clienteNome": "Bruno Henrique Costa",
+      "servico": "Corte Simples",
+      "data": "2026-05-28",
+      "hora": "13:00",
+      "barbeiro": "Marcos",
+      "status": "cancelado"
+    },
+    {
+      "id": "5",
+      "clienteNome": "Diego Ferreira",
+      "servico": "Corte + Barba",
+      "data": "2026-05-28",
+      "hora": "14:00",
+      "barbeiro": "Rafael",
+      "status": "pendente"
+    },
+    {
+      "id": "t-VVf_z5CS4",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "anxwV_s6aT0",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "SXrFSTrS7aM",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "oLGYyAd4k_0",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "ywhArty-iJU",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "OgbNY-t0NDA",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "joU0rAFwO3A",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "F6XoZeUTEQ8",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "uQVMg7tKQFU",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "DmufrN874Xo",
+      "clienteNome": "cliente de teste",
+      "servico": "seervico de teste",
+      "data": "2028-05-14",
+      "hora": "04:50",
+      "barbeiro": "teste de barbeiro"
+    },
+    {
+      "id": "hqHUtbbBIHk",
+      "clienteNome": "teste 2",
+      "servico": "teste 2",
+      "data": "1412-12-14",
+      "hora": "14:12",
+      "barbeiro": "teste 2"
+    },
+    {
+      "id": "-h0eClGaYHI",
+      "clienteNome": "teste 3",
+      "servico": "teste 3",
+      "data": "1212-12-12",
+      "hora": "12:21",
+      "barbeiro": "teste 3",
+      "status": "pendente"
+    },
+    {
+      "id": "8Fc-XffSTu4",
+      "clienteNome": "teste 4",
+      "servico": "teste 4",
+      "data": "2067-12-30",
+      "hora": "01:02",
+      "barbeiro": "teste 4",
+      "status": "pendente"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
