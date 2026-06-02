@@ -1,6 +1,7 @@
 <template>
+  <div class="container">
     <div class="row">
-      <div class="col-sm-6 mb-3 mb-sm-0">
+      <div class="col-sm-6 mb-3 mb-sm-3 mt-3">
         <div class="card" style="width: 18rem">
           <div class="card-body">
             <h5 class="card-title">{{ agendamento.clienteNome }}</h5>
@@ -20,11 +21,13 @@
             >
               {{ agendamento.status }}
             </span>
+            <br>
             <button class="btn btn-primary mt-3" @click="verDetalhes">Ver detalhes</button>
           </div>
         </div>
       </div>
     </div>
+  </div>
  
   <!-- TODO [CRITÉRIO 4 e 12]:
     Monte o card do agendamento usando Bootstrap.

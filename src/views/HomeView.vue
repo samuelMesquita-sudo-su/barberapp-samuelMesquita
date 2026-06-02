@@ -8,7 +8,7 @@
         Criar um router link para ir para tela de cadastro
         https://router.vuejs.org/guide/#App-vue
     -->
-    <div class="me-auto">
+    <div class="">
       <AgendamentoCard v-for="agendamento in agendamentos" :key="agendamento.id" :agendamento="agendamento" />
     </div>
     <!-- TODO [CRITÉRIO 4]:

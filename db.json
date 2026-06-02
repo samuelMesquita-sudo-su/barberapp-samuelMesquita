@@ -150,6 +150,33 @@
       "hora": "01:02",
       "barbeiro": "teste 4",
       "status": "pendente"
+    },
+    {
+      "id": "hiF7GGiL544",
+      "clienteNome": "teste 5 ",
+      "servico": "teste 5 ",
+      "data": "5555-05-05",
+      "hora": "05:05",
+      "barbeiro": "teste 5",
+      "status": "pendente"
+    },
+    {
+      "id": "UIg11Ip8GtQ",
+      "clienteNome": "teste 6",
+      "servico": "teste 6",
+      "data": "2026-06-06",
+      "hora": "06:06",
+      "barbeiro": "teste 6",
+      "status": "pendente"
+    },
+    {
+      "id": "rC7jknWSaHw",
+      "clienteNome": "teste 7",
+      "servico": "teste 7",
+      "data": "2007-07-07",
+      "hora": "07:07",
+      "barbeiro": "teste 07",
+      "status": "pendente"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

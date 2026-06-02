@@ -4,7 +4,7 @@
       <div class="alert alert-primary" role="alert" v-if="isResolvido === false">
         Ocorreu um erro {{ isResolvido }}
       </div>
-      <form action="" method="post" @submit.prevent="cadastrarAgendamento">
+      <form action="" method="post">
         <div class="mb-3">
           <label for="inputClienteNome" class="form-label">Nome do Cliente</label>
           <input type="text" class="form-control" id="inputClienteNome" aria-describedby="clienteHelp" v-model="campos.clienteNome">
@@ -92,6 +92,7 @@ let isResolvido;
   try {
     await criarAgendamento(novoAgendamento);
     isResolvido = true;
+    campos.value = null;
   } catch (error) {
     isResolvido = false;
   }
